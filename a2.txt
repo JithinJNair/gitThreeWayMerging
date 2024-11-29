@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modifying a2 file while on Master Branch
+=======
+modifying a2 data
+>>>>>>> myBranch
